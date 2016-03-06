@@ -1,0 +1,12 @@
+{
+  "recipient": {
+    "salt": "14667c92d91dffab5822f92a5a1ce779",
+    "identity": "sha256$4cffde0ea4cf3008b4bb417a135aa8cd23fcfafe22a20df2f6e7ea0fa4fb0c33"
+  },
+  "issuedOn": "2016-03-05",
+  "badge": "https://www.codeschool.com/users/maverickwebmaker/badges/277/assertion.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://www.codeschool.com/users/maverickwebmaker/badges/277/assertion.json"
+  }
+}
