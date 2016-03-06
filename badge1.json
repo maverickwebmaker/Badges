@@ -1,4 +1,5 @@
 {
+  "UID": "badge1.json"
   "recipient": "sha256$4cffde0ea4cf3008b4bb417a135aa8cd23fcfafe22a20df2f6e7ea0fa4fb0c33",
   "salt": "14667c92d91dffab5822f92a5a1ce779",
   "issued_on": "2016-03-05",
