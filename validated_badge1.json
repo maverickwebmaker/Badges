@@ -1,0 +1,50 @@
+{
+  "status": "valid",
+  "info": {
+    "version": "0.5.0",
+    "guid": null,
+    "structures": {
+      "assertion": {
+        "recipient": "sha256$4cffde0ea4cf3008b4bb417a135aa8cd23fcfafe22a20df2f6e7ea0fa4fb0c33",
+        "salt": "14667c92d91dffab5822f92a5a1ce779",
+        "issued_on": "2016-03-05",
+        "badge": {
+          "version": "0.5.0",
+          "name": "Completed Fundamentals of Design",
+          "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/277/completed-fundamentals-of-design-b9f4f4d4ff73f8a9fdff2043a223404e.png",
+          "description": "Awarded for the completion of Fundamentals of Design",
+          "criteria": "https://www.codeschool.com/users/maverickwebmaker/badges/277",
+          "issuer": {
+            "origin": "http://www.codeschool.com",
+            "name": "Code School",
+            "org": null,
+            "contact": null
+          }
+        },
+        "verify": {
+          "type": "hosted",
+          "url": "https://www.codeschool.com/users/maverickwebmaker/badges/277/assertion"
+        }
+      },
+      "badge": {
+        "version": "0.5.0",
+        "name": "Completed Fundamentals of Design",
+        "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/277/completed-fundamentals-of-design-b9f4f4d4ff73f8a9fdff2043a223404e.png",
+        "description": "Awarded for the completion of Fundamentals of Design",
+        "criteria": "https://www.codeschool.com/users/maverickwebmaker/badges/277",
+        "issuer": {
+          "origin": "http://www.codeschool.com",
+          "name": "Code School",
+          "org": null,
+          "contact": null
+        }
+      },
+      "issuer": {
+        "origin": "http://www.codeschool.com",
+        "name": "Code School",
+        "org": null,
+        "contact": null
+      }
+    }
+  }
+}
