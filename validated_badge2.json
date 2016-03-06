@@ -1,0 +1,36 @@
+{
+  "status": "valid",
+  "info": {
+    "version": "1.0.0",
+    "guid": "980616bba96b79620f8853108a42da4de0045d9c0f1794d5267e316c1ae97e3a",
+    "structures": {
+      "assertion": {
+        "uid": "ottonomy-self-issued-2-fake",
+        "recipient": {
+          "type": "email",
+          "hashed": true,
+          "salt": "coarsekosher",
+          "identity": "sha256$ff80caeeea3342f16692d99dfe4c0d4c426be3c69d86948c3e91aa5ca52f6208"
+        },
+        "issuedOn": "2014-01-31T21:42:21.092Z",
+        "badge": "http://ottonomy.net/manualbadges/test-fake-self-issued-badge-class.json",
+        "verify": {
+          "type": "hosted",
+          "url": "http://ottonomy.net/manualbadges/assertions/ottonomy-self-issued-2-fake.json"
+        }
+      },
+      "badge": {
+        "name": "A Fake Badge, issued by someone other than the proper issuer!!!",
+        "description": "This user has created their own valid Open Badge by hand",
+        "image": "http://ottonomy.net/manualbadges/self-issued-badge.png",
+        "criteria": "http://ottonomy.net/manualbadges/self-issued-badge-criteria.html",
+        "issuer": "http://ottonomy.net/manualbadges/test-fake-issuer.json"
+      },
+      "issuer": {
+        "name": "Nate Otto",
+        "url": "http://fakewebsite.net",
+        "description": "Personal website of Nate Otto"
+      }
+    }
+  }
+}
