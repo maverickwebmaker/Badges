@@ -2,7 +2,7 @@
   "uid": "v1-532-assertion.json",
   "recipient": {
     "type": "email",
-    "hashed": "true",
+    "hashed": true,
     "salt": "32bd84f45a440468e77c2df089ccbb5d",
     "identity": "sha256$bb388dcf07edf0e726a68954778cf5d1f18a0cd63a09328ded896af385a86ad3"
   },
