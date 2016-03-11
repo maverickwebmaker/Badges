@@ -1,5 +1,4 @@
 {
-  "uid": "dont care",
   "recipient":"sha256$e76b46c60f322a0dbc52b7632c985a27a5cbe1f08f053c6dfad8d897ef89e5f6",
   "salt":"deadsea",
   "issued_on": "2016-03-11",
@@ -13,8 +12,7 @@
       "origin": "https://github.com/maverickwebmaker/Badges/tree/master/Success",
       "name": "Maverick Webmaker",
       "org": null,
-      "contact": null
-    }
+      "contact": null}
   },
   "verify": {
     "type": "hosted",
