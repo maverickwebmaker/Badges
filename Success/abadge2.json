@@ -4,13 +4,13 @@
 	"issued_on":"2016-03-07",
 	"badge": {
 		"version":"0.5.0",
-		"name":"Adventurer",
+		"name":"Whatever",
 		"image":"https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge.png",
-		"description":"Hooray! You\u2019ve just completed 75 levels! Here\u2019s your badge \u2014 now keep going and let\u2019s make it an even 100.",
-		"criteria":"https://www.codeschool.com/users/maverickwebmaker/badges/532",
+		"description":"Whatever",
+		"criteria":"Whatever",
 		"issuer": {
-			"origin":"http://www.codeschool.com",
-			"name":"Code School",
+			"origin":"http://www.whatever.com",
+			"name":"Whatever",
 			"org":null,
 			"contact":null}
 	},
