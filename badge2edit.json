@@ -6,7 +6,7 @@
     "identity": "sha256$ff80caeeea3342f16692d99dfe4c0d4c426be3c69d86948c3e91aa5ca52f6208"
   },
   "issuedOn": "2014-01-31T21:42:21.092Z",
-  "badge": "https://www.codeschool.com/users/maverickwebmaker/badges/40/assertion.json",
+  "badge": "https://www.codeschool.com/users/maverickwebmaker/badges/40",
   "verify": {
     "type": "hosted",
     "url": "https://www.codeschool.com/users/maverickwebmaker/badges/40/assertion.json"
