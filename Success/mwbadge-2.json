@@ -1,0 +1,15 @@
+{
+  "uid": "mwbadge-1.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "deadsea",
+    "identity": "sha256$e76b46c60f322a0dbc52b7632c985a27a5cbe1f08f053c6dfad8d897ef89e5f6"
+  },
+  "issuedOn": "2016-03-11T05:20:32.185Z",
+  "badge": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-2.json"
+  }
+}
