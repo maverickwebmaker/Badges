@@ -1,0 +1,7 @@
+{
+  "name": "Adventurer",
+  "description": "Hooray! You\u2019ve just completed 75 levels! Here\u2019s your badge \u2014 now keep going and let\u2019s make it an even 100.",
+  "image": "https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/532/adventurer-2b3c43359d7f3f9962ddee6f44874b25.png",
+  "criteria": "https://www.codeschool.com/users/maverickwebmaker/badges/532",
+  "issuer": make issuer.json and then put its link here
+}
