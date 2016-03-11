@@ -1,14 +1,14 @@
 {
-  "uid": "dont care",
-  "recipient":"sha256$e76b46c60f322a0dbc52b7632c985a27a5cbe1f08f053c6dfad8d897ef89e5f6",
+	"uid": "dont care",
+	"recipient":"sha256$e76b46c60f322a0dbc52b7632c985a27a5cbe1f08f053c6dfad8d897ef89e5f6",
 	"salt":"deadsea",
-  "issued_on": "2016-03-11T05:20:32.185Z",
-  "badge":  {
-    "name": "I am Maverick Webmaker",
-    "description": "This is an Open Badge created by Maverick Webmaker",
-    "image": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge.png",
-    "criteria": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-criteria.html",
-    "issuer": {
+	"issued_on": "2016-03-11T05:20:32.185Z",
+	"badge": {
+		"name": "I am Maverick Webmaker",
+		"description": "This is an Open Badge created by Maverick Webmaker",
+		"image": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge.png",
+		"criteria": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-criteria.html",
+		"issuer": {
       "origin": "https://github.com/maverickwebmaker/Badges/tree/master/Success",
       "name": "Maverick Webmaker",
 			"org":null,
