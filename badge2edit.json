@@ -1,4 +1,5 @@
 {
+  "uid": "anything",
   "recipient": {
     "type": "email",
     "hashed": true,
