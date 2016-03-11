@@ -1,7 +1,7 @@
 {
   "name": "I am Maverick Webmaker",
   "description": "This is an Open Badge created by Maverick Webmaker",
-  "image": "http://ottonomy.net/manualbadges/self-issued-badge.png",
-  "criteria": "http://ottonomy.net/manualbadges/self-issued-badge-criteria.html",
-  "issuer": "http://ottonomy.net/manualbadges/test-fake-issuer.json"
+  "image": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge.png",
+  "criteria": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-criteria.html",
+  "issuer": "https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-issuer.json"
 }
