@@ -9,7 +9,7 @@
 		"description":"Whatever2",
 		"criteria":"https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-criteria.html",
 		"issuer": {
-			"origin":"http://www.whatever.com",
+			"origin":"https://github.com/maverickwebmaker/Badges/tree/master/Success",
 			"name":"Whatever",
 			"org":null,
 			"contact":null}
