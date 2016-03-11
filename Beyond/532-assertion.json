@@ -13,7 +13,7 @@
 			"name":"Code School",
 			"org":null,
 			"contact":null}
-	}
+	},
 	"verify": {
 		"type":"hosted",
 		"url":"https://github.com/maverickwebmaker/Badges/raw/master/Beyond/532-assertion.json"
