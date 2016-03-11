@@ -1,0 +1,21 @@
+{ 
+	"recipient":"sha256$bb388dcf07edf0e726a68954778cf5d1f18a0cd63a09328ded896af385a86ad3",
+	"salt":"32bd84f45a440468e77c2df089ccbb5d",
+	"issued_on":"2016-03-07",
+	"badge": {
+		"version":"0.5.0",
+		"name":"Adventurer",
+		"image":"https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/532/adventurer-2b3c43359d7f3f9962ddee6f44874b25.png",
+		"description":"Hooray! You\u2019ve just completed 75 levels! Here\u2019s your badge \u2014 now keep going and let\u2019s make it an even 100.",
+		"criteria":"https://www.codeschool.com/users/maverickwebmaker/badges/532",
+		"issuer": {
+			"origin":"http://www.codeschool.com",
+			"name":"Code School",
+			"org":null,
+			"contact":null}
+	},
+	"verify": {
+		"type":"hosted",
+		"url":"https://github.com/maverickwebmaker/Badges/raw/master/Success/abadge2.json"
+	}
+}
