@@ -1,0 +1,21 @@
+{
+	"recipient":"sha256$e76b46c60f322a0dbc52b7632c985a27a5cbe1f08f053c6dfad8d897ef89e5f6",
+	"salt":"deadsea",
+	"issued_on":"2016-03-07",
+	"badge": {
+		"version":"0.5.0",
+		"name":"Whatever",
+		"image":"https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge.png",
+		"description":"Whatever2",
+		"criteria":"https://github.com/maverickwebmaker/Badges/raw/master/Success/mwbadge-criteria.html",
+		"issuer": {
+			"origin":"http://www.whatever.com",
+			"name":"Whatever",
+			"org":null,
+			"contact":null}
+	},
+	"verify": {
+		"type":"hosted",
+		"url":"https://github.com/maverickwebmaker/Badges/raw/master/Success/abadge3.json"
+	}
+}
