@@ -1,0 +1,18 @@
+{
+  "recipient":"sha256$90c88eb874bc2b2140050938b4aeecb54f88140ec7b38ecef8b5ef56cfe04717",
+  "salt":"8dc25a967da2595a319ef7bdf2d9a2f9","issued_on":"2016-03-16",
+  "badge":
+  {
+    "version":"0.5.0",
+    "name":"Website Ready",
+    "image":"https://d1ffx7ull4987f.cloudfront.net/images/achievements/large_badge/619/website-ready-eb250ab24db2afa50877f16fe10104a5.png",
+    "description":"You\u2019re a website-making machine. Go forth and use your front-end skills to make a better web!",
+    "criteria":"https://www.codeschool.com/users/maverickwebmaker/badges/619",
+    "issuer":
+    {
+      "origin":"http://www.codeschool.com",
+      "name":"Code School",
+      "org":null,"contact":null
+    }
+  }
+}
