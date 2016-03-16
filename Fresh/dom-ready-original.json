@@ -1,6 +1,7 @@
 {
   "recipient":"sha256$90c88eb874bc2b2140050938b4aeecb54f88140ec7b38ecef8b5ef56cfe04717",
-  "salt":"8dc25a967da2595a319ef7bdf2d9a2f9","issued_on":"2016-03-16",
+  "salt":"8dc25a967da2595a319ef7bdf2d9a2f9",
+  "issued_on":"2016-03-16",
   "badge":
   {
     "version":"0.5.0",
