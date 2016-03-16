@@ -1,0 +1,15 @@
+{
+  "uid": "dom-ready.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "8dc25a967da2595a319ef7bdf2d9a2f9",
+    "identity": "sha256$90c88eb874bc2b2140050938b4aeecb54f88140ec7b38ecef8b5ef56cfe04717"
+  },
+  "issuedOn": "2016-03-16",
+  "badge": "https://github.com/maverickwebmaker/Badges/raw/master/Fresh/Converter/dom-ready-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://github.com/maverickwebmaker/Badges/raw/master/Fresh/Converter/dom-ready-assertion1.json"
+  }
+}
